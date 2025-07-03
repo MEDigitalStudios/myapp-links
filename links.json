@@ -1,5 +1,8 @@
 {
   "privacy_policy": "https://medigitalstudios.github.io/privacy-policy/",
   "telegram": "https://t.me/meDigitalComp",
-  "play_store": "https://play.google.com/store/apps/details?id=your.package.name"
+  "play_store_music": "https://play.google.com/store/apps/details?id=your.package.name",
+  "play_store_filemanager": "https://play.google.com/store/apps/details?id=your.package.name",
+  "play_store_compass": "https://play.google.com/store/apps/details?id=your.package.name",
+  "play_store_qr": "https://play.google.com/store/apps/details?id=your.package.name"
 }
